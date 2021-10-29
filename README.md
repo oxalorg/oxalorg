@@ -13,3 +13,5 @@ You're free to upload :comet: yourself to our guest chambers for a nice cup of t
 > He was an intergalactic ninja :space_invader:, disoriented by time travelling :cyclone: trying to earn an honest wage.
 >
 > His only wish was to have been born as an ordinary carbon based life form :feelsgood:
+
+Check out my youtube channel for Clojure, Clojurescript, & Emacs videos: https://www.youtube.com/c/oxalorg
