@@ -15,3 +15,5 @@ You're free to upload :comet: yourself to our guest chambers for a nice cup of t
 > His only wish was to have been born as an ordinary carbon based life form :feelsgood:
 
 Check out my youtube channel for Clojure, Clojurescript, & Emacs videos: https://www.youtube.com/c/oxalorg
+
+If you want to [buymeacoffee.com/oxalorg](https://buymeacoffee.com/oxalorg)
